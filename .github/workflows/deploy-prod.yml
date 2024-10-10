@@ -13,7 +13,6 @@ env:
   DOCKER_IMAGE_NAME: Martin-Alv-azure-ttt
   AZURE_WEBAPP_NAME: Martin-Alv-ttt-app
   ###############################################
-
 jobs:
   build:
     runs-on: ubuntu-latest
